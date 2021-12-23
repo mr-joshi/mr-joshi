@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 
-## Hi there, I'm Harsh Yadav👋🏼
+## Hi there, I'm Kamal Kishore Joshi👋🏼
 
 <!--
 **imadatyatalah/imadatyatalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
