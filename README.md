@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/imadatyatalah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-joshi&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-joshi&layout=compact&langs_count=6&theme=react"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-joshi&show_icons=true&theme=react"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-joshi&layout=compact&langs_count=6&theme=react"/>
 </a>
 </p>
 
